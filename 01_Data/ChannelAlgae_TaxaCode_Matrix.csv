@@ -1,0 +1,97 @@
+﻿MajorGroup,FixerNonFixer,MajorGroups2,GenusSp,Genus,AlgalCodeNum,AlgalCodeName
+Diatoms,Fixer,DF,Epithem adnata_flat,Epithemia adnata,1,EPIADN
+Diatoms,Fixer,DF,Epithemia adnat sp,Epithemia,68,EPIADNB
+Diatoms,Fixer,DF,Epithem turgida like,Epithemia turgida,2,EPITUR
+Diatoms,Fixer,DF,E. turgida round top,Epithemia,70,EPITGRND
+Diatoms,Fixer,DF,Epithem sorex,Epithemia sorex,3,EPISOR
+Diatoms,Fixer,DF,Rhopalodia gibba,Epithemia,4,RHOGIB
+Diatoms,Non-F,D,Achnanthes minutissimum,Small<1.5,5,SML1_5
+Diatoms,Non-F,D,Small Achnan Fam,AchSml,6,ACHSML
+Diatoms,Non-F,D,Small Oval ,Oval Small,67,SMLOVL
+Diatoms,Non-F,D,Achnplano lik,AchPln,7,ACHPLN
+Diatoms,Non-F,D,CaloneisLike,CALLKE,8,CALLKE
+Diatoms,Non-F,D,Centric Med,Cen MED,9,Cen Med
+Diatoms,Non-F,D,Centric SML,CenSMALL,10,CENSML
+Diatoms,Non-F,D,Centric Lrg,cenLRG,0,CENLRG
+Diatoms,Non-F,D,Cocconeis sp,COCCSP,12,COCSP
+Diatoms,Non-F,D,Cymb long,CYMLNG,73,CYBLRG
+Diatoms,Non-F,D,Diatoma mesodon,Diatoma,13,DIAMES
+Diatoms,Non-F,D,Diploneis,DIPLO,92,DIPLON
+Diatoms,Non-F,D,Encyonema small,ENCSML,14,ENCSML
+Diatoms,Non-F,D,Eunotia veneris like,EUNVEN,93,EUNSPP
+Diatoms,Non-F,D,FragilariaChainNo Space,Frag,15,FRAChL
+Diatoms,Non-F,D,FragilariaChainNo SpaceLnf,Frag,16,FRACHS
+Diatoms,Non-F,D,FragilariaChainDiamond,Frag,17,FRADMD
+Diatoms,Non-F,D,FragilariaChainDelicate,Frag,18,FRALNG
+Diatoms,Non-F,D,Fragilaria vaucheria,Frag,67,FRAVAU
+Diatoms,Non-F,D,Frag recap_pinch ends,Frag,76,FRAPCH
+Diatoms,Non-F,D,FRUSTULIA (in tube),Frust,0,FRUSTU
+Diatoms,Non-F,D,Hygropetra like,,999,HYGRSP
+Diatoms,Non-F,D,unknown rect,0,78,UNKNWD
+Diatoms,Non-F,D,Gompho_straightedge,Gompho1,19,GOMSTR
+Diatoms,Non-F,D,Gompho_wavy,Gompho2,20,GOMwav
+Diatoms,Non-F,D,Gomphonema tumidum,Gompho3,80,GOMTUM
+Diatoms,Non-F,D,GOMPH HER,Gompho4,81,GOMHER
+Diatoms,Non-F,D,Gomphonema sp. ,Gompho5,82,GOMSP82
+Diatoms,Non-F,D,Gomphonema sp2,Gompho6,75,GomphSP2
+Diatoms,Non-F,D,Hannea,Hannea,21,HANNEA
+Diatoms,Non-F,D,Melosira,Melosira,22,MELOSI
+Diatoms,Non-F,D,Meridion,Meridion,23,MERIDO
+Diatoms,Non-F,D,Nav_small_pointed boat,Navicula 1,24,NAVSP1
+Diatoms,Non-F,D,Nav_small_rect,Navicula 2,25,NAVSP2
+Diatoms,Non-F,D,Naviculoid pinch end,Navicula 3,84,NAVPCH
+Diatoms,Non-F,D,Nav_cavin Like,Navicula 4,85,NavCav
+Diatoms,Non-F,D,Nav Big boat,Navicula 5,86,NAVBIG
+Diatoms,Non-F,D,Nitzschia_skinny1,Nitzschia,26,NITZSK1
+Diatoms,Non-F,D,Nitzschia_2,Nitzschia_Tiny_slight pinch,27,NITZTN2
+Diatoms,Non-F,D,Nitzschia palea,Diatoma,84,NITPAL
+Diatoms,Non-F,D,Nitschia aqueora?,NIT086,86,NIT086
+Diatoms,Non-F,D,Nitzschis amphibia?,Nit Amph,87,Nit Amph
+Diatoms,Non-F,D,Nitschia inconsipicua,NITINC,88,NITINC
+Diatoms,Non-F,D,Nitschia mid raphe,NITMID,89,NITMID
+Diatoms,Non-F,D,Nitzschia sp 3,NITSO3,90,NITSO3
+Diatoms,Non-F,D,Nitschiz skinny,NITSP2,92,NITSP2
+Diatoms,Non-F,D,Nitzschia sp 4,NITSP4,91,NITSP4
+Diatoms,Non-F,D,PlanothidumSmall,PlanothidumSmall,28,PLASP1
+Diatoms,Non-F,D,Planothidum slight rhomb,PlanoRhom,72,PLA072
+Diatoms,Non-F,D,Planothidum oblong,Plano Long,73,PLA073
+Diatoms,Non-F,D,Synedra ulna,Ulnaria,31,ULNULN
+Diatoms,Non-F,D,Staurosir,StauroSir,32,STRSIR
+Diatoms,Non-F,D,Tabellaria ,0,79,TABSPP
+UNKNOWN,Non-F,O,Unknown Bumpy guy,UNKBMY,33,UNKBMY
+Dinoflag,Non-F,Fl,Dinoflag Like,DINOFLF,0,DINOFLF
+Green,Non-F,G,Cosmarium,COSMAR,0,COSMAR
+Green,Non-F,G,MougeotiaFat,Moug 5at,37,MOUGEO
+Green,Non-F,G,Mougeotia skinny,MOUGSK,0,MOUGSK
+Green,Non-F,G,Squarebox,SQUBX,38,SQUBX
+Green,Non-F,G,0,OEDOG,39,OEDOG
+Green,Non-F,G,UlothrixWide,UloWide,40,UNKWDE
+Green,Non-F,G,FatUlolIke,FatUlolIke,41,FATULO
+Green,Non-F,G,Unknown1A,Unknown1A,43,GRNUK1
+Green,Non-F,G,Green flag ,0,8888,GRNFLG
+Green,Non-F,G,GreenBall!,GreenBall!,44,GRNBLL
+Green,Non-F,G,GreenBall2,GreenBall2,45,GRNBALL1
+Green,Non-F,G,Green like colony (cells in 4),GRNC4c,7777,GRNC4c
+Green,Non-F,G,TinyGreen,TinyGreen,46,TINYGR
+TRIBO,Non-F,YG,SkinTrib,Tribonema2,49,TRIBSp2
+0,Non-F,YG,Not qite green ball,Not qite green ball,51,NTQUTG
+Cryptomonad,Non-F,CR,Crytopmonas,0,55555,CRYPTO
+Cyanobacteria,Fix,CF,AnaLike,AnaLike,52,AnaLike
+Cyanobacteria,Fix,CF,anabaena,0,44444,ANAB
+Cyanobacteria,Fix,CF,0,0,53,NOSPRU
+Cyanobacteria,Fix,CF,Nostoc spongioforme,Pink Nos,54,NOSSPO
+Cyanobacteria,Fix,CF,Nostoc amplisssimum,GoldenNos,55,NOSAMP
+Cyanobacteria,Fix,CF,0,0,56,NOSCOI
+Cyanobacteria,Fix,CF,Anabae_doubleAkinete,AnaeDouble,57,ANADOU
+Cyanobacteria,Fix,CF,Anabaena straight,Anabaena straight,58,ANSTR
+Cyanobacteria,Fix,CF,Cylindrospermum,Cylindrospermum,59,CYLINDRO
+Cyanobacteria,Fix,CF,Calothrix1,Calothrix1,60,CALOSP1
+Cyanobacteria,Fix,CF,Calothrix2 long,CalothrixGamish,61,CALGAM
+Cyanobacteria,Fix,CF,0,TOLYSP,0,TOLYSP
+Cyanobacteria,Fix,CF,0,NODULA,63,NODULA
+Cyanobacteria,Non-F,C,linked sausage small,lynglink,111111,lynglink
+Cyanobacteria,Non-F,C,Lynbya,LINKSAU,222222,LINKSAU
+Cyanobacteria,Non-F,C,OscillatoriaFAT,OSCSP1,333333,OSCSP1
+Cyanobacteria,Non-F,C,Osccill fam med,OSCMED,4444444,OSCMED
+Cyanobacteria,Non-F,C,Tiny Sausage Cyano,TNYS,555555,TinyS
+Cyanobacteria,Non-F,C,Croococcus,CROCOC,666666,CROCOC

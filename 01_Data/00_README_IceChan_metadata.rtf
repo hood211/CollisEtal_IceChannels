@@ -1,0 +1,143 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Oblique;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf0 \expnd0\expndtw0\kerning0
+Column names and descriptions for IceChan_allyrs_finaldata_imputed_11102022.csv\
+\'a0\
+MetDate: Date of metabolism measurement\
+\'a0\
+Year: Experiment year\
+\'a0\
+sample_event: \'93D1\'94 or \'93D2\'94\'97indicates whether the measurement was the first or second round of measurements for an experiment\
+\'a0\
+ID2: for metabolism measurements\'97indicates whether a value is the first or second round of measurements, the experiment year, and channel number. Format is \'93MeasRound_Year_channel\'94\
+\'a0\
+ID3: \'93Year_channel\'94\
+\'a0\
+channel: channel number (C1-C30)\
+\'a0\
+chan: channel number\'97numeric format (1-30)\
+\'a0\
+Block: designates whether a channel in block 1 or 2 during the experiment (i.e., left or right-side of channel array)\
+\'a0\
+repF: only applies to 2017 experiments where we had replicate treatments (\'93R1\'94 or \'93R2\'94)\
+\'a0\
+tempF: temperature treatment for experiment (A-E)\
+\'a0\
+MeanPre2wksTemp: average temperature (Celsius) of the channel two weeks prior to the metabolism measurement. Temperature was measured with a HOBO pendant that was placed at the top of each channel throughout the experiment and measurements were logged every 15 minutes.\
+\'a0\
+N_tr_uM: N- treatment\'97target concentration of NH4-N + NO3-N for each treatment during the experiment. Units are \'b5M-N.\
+\'a0\
+P_tr_uM: P-treatment\'97 target concentration of PO4-P for each treatment during the experiment. Units are \'b5M-P.\
+\'a0\
+N_uM: \'93total\'94 concentration of NH4-N + NO3-N for each treatment\'97this was calculated as the N-treatment + average background NH4-N + NO3-N measured during all three years of the experiment. Units are \'b5M-N.\
+\'a0\
+P_uM: \'93total\'94 concentration of PO4-P for each treatment-- this was calculated as the P-treatment + average background PO4-P measured during all three years of the experiment. Units are \'b5M-P.\
+\'a0\
+NPratio: DIN:SRP ratio, calculated as N_uM / P_uM.\
+\'a0\
+N_cat: classified as \'93AmbN\'94, \'93MedN\'94, or \'93HighN\'94\'97based on the N treatment\
+\'a0\
+P_cat: classified as \'93AmbP\'94, \'93MedP\'94, \'93HighP\'94\'97based on the P treatment\
+\'a0\
+StartDate: experiment start date for each year\
+\'a0\
+lightL_Met: light level measured during metabolism measurements. Units are lux.\
+\'a0\
+NEP_uM_C_m2h: Areal Net Ecosystem Production measurement. Units are \'b5M-C / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub  / hr.\
+\'a0\
+NEP_is_imputed: indicates whether an NEP value was imputed (TRUE) or measured directly (FALSE). Imputations only occurred when we didn\'92t successfully measure NEP for a channel, in which case we used the areal AFDM value from the attempted NEP measurement to obtain an estimated NEP value.\
+\'a0\
+R_uM_C_m2h: Areal Ecosystem Respiration measurement. Units are \'b5M-C / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub  / hr.\
+\'a0\
+ER_is_imputed: indicates whether an ER value was imputed (TRUE) or measured directly (FALSE). Imputations only occurred when we didn\'92t successfully measure ER for a channel, in which case we used the areal AFDM value from the attempted ER measurement to obtain an estimated ER value.\
+\'a0\
+GPP_uM_C_m2h: Areal Gross Primary Production measurement. Units are \'b5M-C / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub  / hr.\
+\'a0\
+GPP_is_imputed: GPP is the sum of NEP and ER. This column indicates if an NEP or ER value was imputed and then used to calculate GPP (TRUE), or if both NEP and ER were measured directly and then used to calculate GPP (FALSE).\
+\'a0\
+Met_gAFDM_m2: Areal ash-free dry mass (AFDM) from the metabolism measurement (metabolism = NEP, ER, GPP). Units are g AFDM / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub .\
+\'a0\
+UpDate: Date of N and P uptake measurements\
+\'a0\
+NUp_uM_N_m2_hr: Areal NH4-N + NO3-N uptake measurement. Units are \'b5M-N / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub  / hr.\
+\'a0\
+PUp_uM_P_m2_hr: Areal PO4-P uptake measurement. Units are \'b5M-P / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub  / hr.\
+\'a0\
+Nup_gAFDM_m2: Areal ash-free dry mass (AFDM) from the N-uptake measurement. Units are g AFDM / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub .\
+\'a0\
+Pup_gAFDM_m2: Areal ash-free dry mass (AFDM) from the P-uptake measurement. Units are g AFDM / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub .\
+\'a0\
+NfixDate: Date of N-fixation measurement\
+\'a0\
+T2_chambtempC: temperature of chamber (Celsius) at \'93t2\'94 during N-fixation measurement\
+\'a0\
+MeanPre2wksTempC_Nfixn: average temperature (Celsius) of the channel two weeks prior to the N-fixation measurement. Temperature was measured with a HOBO pendant that was placed at the top of each channel throughout the experiment.\
+\'a0\
+Nfix_uM_N_m2h: Areal N-fixation measurement. Units are \'b5M-N / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub  / hr.\
+\'a0\
+Nfix_gAFDM_m2: Areal ash-free dry mass (AFDM) from the N-fixation measurement. Units are g AFDM / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub . (Note: we currently don\'92t have AFDM values for 2017 N-fixation measurements\'97the AFDM data we got from St. Kates is off by at least an order of magnitude, and we don\'92t have the raw filter weights or filter volumes to figure out what\'92s wrong, so the 2017 values are currently \'93NA\'94 in the datasheet)\
+\'a0\
+Comments: comments from the N-fixation measurements\
+\'a0\
+\pard\pardeftab720\partightenfactor0
+
+\f1\i \cf0 Biofilm Community Composition Notes:
+\f0\i0 \
+
+\f1\i Biofilm samples were quantified for biovolume by Paula Furey from a 5-mL subsample of the biofilm (preserved in 5% formalin) following N2 fixation incubations. Only samples from the second round of N-fixation measurements were counted, meaning that the same values apply to a given channel for both sampling events in each experiment. Paula didn\'92t give us actual biovolume numbers\'97she gave us \'93relative biovolume\'94 for each of the groups\'97so the columns labelled \'93RelBV\'94 are direct numbers from Paula.
+\f0\i0 \
+
+\f1\i \'a0
+\f0\i0 \
+RelBV_allN2fixers: relative biovolume of all N-fixing taxa. The N2-fixing group consisted of diatoms in the Rhopalodiaceae that contained N2-fixing cyanobacterial endosymbionts well as free-living cyanobacteria with heterocytes. Units are %.\
+\'a0\
+RelBV_allnonN2fixers: relative biovolume of all non-N-fixing taxa. Units are %.\
+\'a0\
+RelBV_N2fix_diatoms: relative biovolume of N-fixing diatoms. Consisted of diatoms in the Rhopalodiaceae that contain N2-fixing cyanobacterial endosymbionts. Units are %.\
+\'a0\
+RelBV_nonN2fix_diatoms: relative biovolume of non-N-fixing diatoms. Units are %.\
+\'a0\
+RelBV_N2fix_Cyanos: relative biovolume of N-fixing cyanobacteria. Consisted of free-living cyanobacteria with heterocytes. Units are %.\
+\'a0\
+RelBV_otheralgalgroups: relative biovolume of all other algal groups (i.e., not N-fixers or non-N-fixing diatoms). Units are %.\
+\'a0\
+BMS_N2fixers_g_m2: This represents the \'93areal biomass\'94 of all N-fixing taxa. Paula didn\'92t give us the actual biovolume values (only relative biovolume), so we calculated areal biomass of N2-fixers as (RelBV_allN2fixers / 100) * Met_gAFDM_m2. (i.e., AFDM values are from the corresponding metabolism measurement). Units are g AFDM / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub . We\'92re using this value for the SEM analysis.\
+\'a0\
+BMS_nonN2fixers_g_m2: This represents the \'93areal biomass\'94 of all non-N-fixing taxa. Paula didn\'92t give us the actual biovolume values (only relative biovolume), so we calculated areal biomass of non-N2-fixers as (RelBV_allnonN2fixers / 100) * Met_gAFDM_m2. (i.e., AFDM values are from the corresponding metabolism measurement). Units are g AFDM / m
+\fs24\fsmilli12222 \super 2
+\fs29\fsmilli14667 \nosupersub . We\'92re using this value for the SEM analysis.\
+\'a0\
+propNfixer: proportion of N-fixing taxa. Calculated as RelBV_allN2fixers / 100.\
+\'a0\
+logitNfixer: logit-transformed proportion N-fixers. Calculated as ln((p + 0.001) / 1 \'96 (p + 0.001)), where p = propNfixer.\
+\'a0\
+\'a0\
+}

@@ -1,0 +1,97 @@
+﻿MajorGroup,FixerNonFixer,MajorGroups2,MajorGroups3,GenusSp,Genus,AlgalCodeNum,AlgalCodeName,MinorGroupJMH
+Cyanobacteria,Nfixer,CF,CYFX,AnaLike,AnaLike,52,AnaLike,Anabaena
+Cyanobacteria,Nfixer,CF,CYFX,Anabae_doubleAkinete,AnaeDouble,57,ANADOU,Anabaena
+Cyanobacteria,Nfixer,CF,CYFX,Anabaena straight,Anabaena straight,58,ANSTR,Anabaena
+Cyanobacteria,Nfixer,CF,CYFX,anabaena,0,44444,ANAB,Anabaena
+Cyanobacteria,Nfixer,CF,CYFX,Calothrix1,Calothrix1,60,CALOSP1,Calothrix
+Cyanobacteria,Nfixer,CF,CYFX,Calothrix2 long,CalothrixGamish,61,CALGAM,Calothrix
+Cyanobacteria,Nfixer,CF,CYFX,Cylindrospermum,Cylindrospermum,59,CYLINDRO,Cylindrospermum
+Cyanobacteria,Nfixer,CF,CYFX,0,NODULA,63,NODULA,Nodularia
+Cyanobacteria,Nfixer,CF,CYFX,0,0,53,NOSPRU,Nostoc
+Cyanobacteria,Nfixer,CF,CYFX,Nostoc spongioforme,Pink Nos,54,NOSSPO,Nostoc
+Cyanobacteria,Nfixer,CF,CYFX,Nostoc amplisssimum,GoldenNos,55,NOSAMP,Nostoc
+Cyanobacteria,Nfixer,CF,CYFX,0,0,56,NOSCOI,Nostoc
+Cyanobacteria,Nfixer,CF,CYFX,0,TOLYSP,0,TOLYSP,Tolypothrix
+Diatoms,Nfixer,DF,DIAFX,Epithem adnata_flat,Epithemia adnata,1,EPIADN,Epithemia
+Diatoms,Nfixer,DF,DIAFX,Epithem turgida like,Epithemia turgida,2,EPITUR,Epithemia
+Diatoms,Nfixer,DF,DIAFX,Epithem sorex,Epithemia sorex,3,EPISOR,Epithemia
+Diatoms,Nfixer,DF,DIAFX,Rhopalodia gibba,Epithemia,4,RHOGIB,Epithemia
+Diatoms,Nfixer,DF,DIAFX,Epithemia adnat sp,Epithemia,68,EPIADNB,Epithemia
+Diatoms,Nfixer,DF,DIAFX,E. turgida round top,Epithemia,70,EPITGRND,Epithemia
+Cryptomonad,NonNfixer,CR,CRPT,Crytopmonas,0,55555,CRYPTO,Crypto_unID
+Cyanobacteria,NonNfixer,C,CYNFX,Croococcus,CROCOC,666666,CROCOC,Croococcus
+Cyanobacteria,NonNfixer,C,CYNFX,linked sausage small,lynglink,111111,lynglink,CyanoNonF_unID
+Cyanobacteria,NonNfixer,C,CYNFX,Tiny Sausage Cyano,TNYS,555555,TinyS,CyanoNonF_unID
+Cyanobacteria,NonNfixer,C,CYNFX,Lynbya,LINKSAU,222222,LINKSAU,Lynbya
+Cyanobacteria,NonNfixer,C,CYNFX,OscillatoriaFAT,OSCSP1,333333,OSCSP1,Oscillatoria
+Cyanobacteria,NonNfixer,C,CYNFX,Osccill fam med,OSCMED,4444444,OSCMED,Oscillatoria
+Diatoms,NonNfixer,D,DIANFX,Achnanthes minutissimum,Small<1.5,5,SML1_5,Achnanthes
+Diatoms,NonNfixer,D,DIANFX,Cocconeis sp,COCCSP,12,COCSP,Cocconeis
+Diatoms,NonNfixer,D,DIANFX,Diatoma mesodon,Diatoma,13,DIAMES,Diatoma
+Diatoms,NonNfixer,D,DIANFX,Small Achnan Fam,AchSml,6,ACHSML,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,Achnplano lik,AchPln,7,ACHPLN,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,CaloneisLike,CALLKE,8,CALLKE,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,Small Oval ,Oval Small,67,SMLOVL,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,Cymb long,CYMLNG,73,CYBLRG,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,unknown rect,0,78,UNKNWD,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,Eunotia veneris like,EUNVEN,93,EUNSPP,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,Hygropetra like,,999,HYGRSP,DiatomNonF_unID
+Diatoms,NonNfixer,D,DIANFX,Centric Lrg,cenLRG,0,CENLRG,DiatomNonF_unID_centric
+Diatoms,NonNfixer,D,DIANFX,Centric Med,Cen MED,9,Cen.Med,DiatomNonF_unID_centric
+Diatoms,NonNfixer,D,DIANFX,Centric SML,CenSMALL,10,CENSML,DiatomNonF_unID_centric
+Diatoms,NonNfixer,D,DIANFX,Diploneis,DIPLO,92,DIPLON,Diploneis
+Diatoms,NonNfixer,D,DIANFX,Encyonema small,ENCSML,14,ENCSML,Encyonema
+Diatoms,NonNfixer,D,DIANFX,FragilariaChainNo Space,Frag,15,FRAChL,Fragilaria
+Diatoms,NonNfixer,D,DIANFX,FragilariaChainNo SpaceLnf,Frag,16,FRACHS,Fragilaria
+Diatoms,NonNfixer,D,DIANFX,FragilariaChainDiamond,Frag,17,FRADMD,Fragilaria
+Diatoms,NonNfixer,D,DIANFX,FragilariaChainDelicate,Frag,18,FRALNG,Fragilaria
+Diatoms,NonNfixer,D,DIANFX,Fragilaria vaucheria,Frag,67,FRAVAU,Fragilaria
+Diatoms,NonNfixer,D,DIANFX,Frag recap_pinch ends,Frag,76,FRAPCH,Fragilaria
+Diatoms,NonNfixer,D,DIANFX,FRUSTULIA (in tube),Frust,0,FRUSTU,Frustulia
+Diatoms,NonNfixer,D,DIANFX,Gompho_straightedge,Gompho1,19,GOMSTR,Gomphonema
+Diatoms,NonNfixer,D,DIANFX,Gompho_wavy,Gompho2,20,GOMwav,Gomphonema
+Diatoms,NonNfixer,D,DIANFX,Gomphonema sp2,Gompho6,75,GomphSP2,Gomphonema
+Diatoms,NonNfixer,D,DIANFX,Gomphonema tumidum,Gompho3,80,GOMTUM,Gomphonema
+Diatoms,NonNfixer,D,DIANFX,GOMPH HER,Gompho4,81,GOMHER,Gomphonema
+Diatoms,NonNfixer,D,DIANFX,Gomphonema sp. ,Gompho5,82,GOMSP82,Gomphonema
+Diatoms,NonNfixer,D,DIANFX,Hannea,Hannea,21,HANNEA,Hannea
+Diatoms,NonNfixer,D,DIANFX,Melosira,Melosira,22,MELOSI,Melosira
+Diatoms,NonNfixer,D,DIANFX,Meridion,Meridion,23,MERIDO,Meridion
+Diatoms,NonNfixer,D,DIANFX,Nav_small_pointed boat,Navicula 1,24,NAVSP1,Navicula
+Diatoms,NonNfixer,D,DIANFX,Nav_small_rect,Navicula 2,25,NAVSP2,Navicula
+Diatoms,NonNfixer,D,DIANFX,Naviculoid pinch end,Navicula 3,84,NAVPCH,Navicula
+Diatoms,NonNfixer,D,DIANFX,Nav_cavin Like,Navicula 4,85,NavCav,Navicula
+Diatoms,NonNfixer,D,DIANFX,Nav Big boat,Navicula 5,86,NAVBIG,Navicula
+Diatoms,NonNfixer,D,DIANFX,Nitzschia_skinny1,Nitzschia,26,NITZSK1,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitzschia_2,Nitzschia_Tiny_slight pinch,27,NITZTN2,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitzschia palea,Diatoma,84,NITPAL,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitschia aqueora?,NIT086,86,NIT086,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitzschis amphibia?,Nit Amph,87,Nit.Amph,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitschia inconsipicua,NITINC,88,NITINC,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitschia mid raphe,NITMID,89,NITMID,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitzschia sp 3,NITSO3,90,NITSO3,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitzschia sp 4,NITSP4,91,NITSP4,Nitschia
+Diatoms,NonNfixer,D,DIANFX,Nitschiz skinny,NITSP2,92,NITSP2,Nitschia
+Diatoms,NonNfixer,D,DIANFX,PlanothidumSmall,PlanothidumSmall,28,PLASP1,Planothidum
+Diatoms,NonNfixer,D,DIANFX,Planothidum slight rhomb,PlanoRhom,72,PLA072,Planothidum
+Diatoms,NonNfixer,D,DIANFX,Planothidum oblong,Plano Long,73,PLA073,Planothidum
+Diatoms,NonNfixer,D,DIANFX,Staurosir,StauroSir,32,STRSIR,Staurosir
+Diatoms,NonNfixer,D,DIANFX,Synedra ulna,Ulnaria,31,ULNULN,Synedra
+Diatoms,NonNfixer,D,DIANFX,Tabellaria ,0,79,TABSPP,Tabellaria
+Dinoflag,NonNfixer,Fl,DINFLG,Dinoflag Like,DINOFLF,0,DINOFLF,Dinoflagellate
+Green,NonNfixer,G,GREEN,Cosmarium,COSMAR,0,COSMAR,Cosmarium
+Green,NonNfixer,G,GREEN,Squarebox,SQUBX,38,SQUBX,Green_unID
+Green,NonNfixer,G,GREEN,0,OEDOG,39,OEDOG,Green_unID
+Green,NonNfixer,G,GREEN,FatUlolIke,FatUlolIke,41,FATULO,Green_unID
+Green,NonNfixer,G,GREEN,Unknown1A,Unknown1A,43,GRNUK1,Green_unID
+Green,NonNfixer,G,GREEN,GreenBall!,GreenBall!,44,GRNBLL,Green_unID
+Green,NonNfixer,G,GREEN,GreenBall2,GreenBall2,45,GRNBALL1,Green_unID
+Green,NonNfixer,G,GREEN,TinyGreen,TinyGreen,46,TINYGR,Green_unID
+Green,NonNfixer,G,GREEN,Green like colony (cells in 4),GRNC4c,7777,GRNC4c,Green_unID
+Green,NonNfixer,G,GREEN,Green flag ,0,8888,GRNFLG,Green_unID
+Green,NonNfixer,G,GREEN,Mougeotia skinny,MOUGSK,0,MOUGSK,Mougeotia
+Green,NonNfixer,G,GREEN,MougeotiaFat,Moug 5at,37,MOUGEO,Mougeotia
+Green,NonNfixer,G,GREEN,UlothrixWide,UloWide,40,UNKWDE,Ulothrix
+UNKNOWN,NonNfixer,unID,UNID,Unknown Bumpy guy,UNKBMY,33,UNKBMY,unID
+TRIBO,NonNfixer,YG,YLGR,SkinTrib,Tribonema2,49,TRIBSp2,Tribonema
+0,NonNfixer,YG,YLGR,Not qite green ball,Not qite green ball,51,NTQUTG,YellowGreen
