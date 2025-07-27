@@ -591,6 +591,8 @@ BF_f4 <- BF_f3 %>%
 
 
 # 2015 ----
+TaxaOrder2015 <- c( "Nostoc", "Anabaena", "Epithemia", "Other_F", "Melosira", "Fragilaria", "Odontidium", "Ulnaria", "Meridion", "Hannaea", "Nitzschia", "Other_NF")
+
 BF_f4_2015 <- BF_f4 %>% 
   filter(Year == "2015") %>% 
   mutate(MinorGroupJMH2 = as.factor(MinorGroupJMH2),
@@ -625,11 +627,11 @@ as.vector(BF_f4 %>%
             select(MinorGroupJMH2))
 
 
-TaxaOrder2015 <- c("Melosira", "Fragilaria", "Odontidium", "Ulnaria", "Meridion", "Hannaea", "Nitzschia", "Other_NF", "Nostoc", "Anabaena", "Epithemia", "Other_F")
+
 
 ColorsNfix_2015 <- c("#1b9e77", "#d95f02", "#7570b3", "#e7298a")
 ColorsNonNfix_2015 <- c("#fbb4ae", "#b3cde3", "#ccebc5", "#decbe4", "#fed9a6", "#ffffcc", "#e5d8bd", "#fddaec")
-Colors2015 <- c(ColorsNonNfix_2015, ColorsNfix_2015)
+Colors2015 <- c(ColorsNfix_2015, ColorsNonNfix_2015)
 
 # plot
 png("05_Figures4MS/18_AutotrophRelBMPlots2015_FigS7.jpg", units = "in", height = 13, width = 15, res = 300)
@@ -637,18 +639,18 @@ ggplot(BF_f4_2015,
        aes(x = TempFval, y = RelBM, fill = MinorGroupJMH2)) +
   geom_bar(position = "stack", stat = "identity", color = "black", linewidth = 0.75) +
   scale_fill_manual(values = Colors2015,
-                    labels = c(expression(italic("Melosira")), 
-                               expression(italic("Fragilaria")), 
-                               expression(italic("Odontidium")), 
-                               expression(italic("Ulnaria")), 
-                               expression(italic("Meridion")), 
-                               expression(italic("Hannea")), 
-                               expression(italic("Nitzschia")), 
-                               "Other_NF", 
-                               expression(italic("Nostoc")), 
-                               expression(italic("Anabaena")), 
-                               expression(italic("Epithemia")), 
-                               "Other_F")) +
+                    labels = c(expression(italic("Nostoc")),
+                               expression(italic("Anabaena")),
+                               expression(italic("Epithemia")),
+                               "Other_F",
+                               expression(italic("Melosira")),
+                               expression(italic("Fragilaria")),
+                               expression(italic("Odontidium")),
+                               expression(italic("Ulnaria")),
+                               expression(italic("Meridion")),
+                               expression(italic("Hannea")),
+                               expression(italic("Nitzschia")),
+                               "Other_NF")) +
   facet_grid(N_uM ~., labeller = labeller(N_uM = Nlabels_2015)) +
   ylab("Relative biomass (%)") +
   xlab(NULL) +
@@ -669,7 +671,7 @@ ggplot(BF_f4_2015,
         strip.text.y = element_text(size = 25, face = "bold"),
         legend.position = "right",
         legend.title = element_text(size = 24, face = "bold"),
-        legend.text = element_text(size = 24, face = "bold"),
+        legend.text = element_text(size = 24),
         legend.key.height = unit(1,"cm")) 
 dev.off()
 
@@ -755,7 +757,7 @@ ggplot(BF_f4_2016,
         strip.text.y = element_text(size = 25, face = "bold"),
         legend.position = "right",
         legend.title = element_text(size = 24, face = "bold"),
-        legend.text = element_text(size = 24, face = "bold"),
+        legend.text = element_text(size = 24),
         legend.key.height = unit(1,"cm")) 
 dev.off()
 
@@ -854,7 +856,7 @@ ggplot(BF_f4_2017,
         strip.text.y = element_text(size = 25, face = "bold"),
         legend.position = "right",
         legend.title = element_text(size = 24, face = "bold"),
-        legend.text = element_text(size = 24, face = "bold"),
+        legend.text = element_text(size = 24),
         legend.key.height = unit(1,"cm")) 
 dev.off()
 
